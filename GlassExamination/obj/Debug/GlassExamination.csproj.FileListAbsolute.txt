@@ -1,0 +1,14 @@
+C:\ASP NET作品集\GlassExamination\GlassExamination\bin\Debug\GlassExamination.exe.config
+C:\ASP NET作品集\GlassExamination\GlassExamination\bin\Debug\GlassExamination.exe
+C:\ASP NET作品集\GlassExamination\GlassExamination\bin\Debug\GlassExamination.pdb
+C:\ASP NET作品集\GlassExamination\GlassExamination\obj\Debug\GlassExamination.csproj.AssemblyReference.cache
+C:\ASP NET作品集\GlassExamination\GlassExamination\obj\Debug\GlassExamination.Properties.Resources.resources
+C:\ASP NET作品集\GlassExamination\GlassExamination\obj\Debug\GlassExamination.csproj.GenerateResource.cache
+C:\ASP NET作品集\GlassExamination\GlassExamination\obj\Debug\GlassExamination.csproj.CoreCompileInputs.cache
+C:\ASP NET作品集\GlassExamination\GlassExamination\obj\Debug\GlassExamination.exe
+C:\ASP NET作品集\GlassExamination\GlassExamination\obj\Debug\GlassExamination.pdb
+C:\ASP NET作品集\GlassExamination\GlassExamination\bin\Debug\FontAwesome.Sharp.dll
+C:\ASP NET作品集\GlassExamination\GlassExamination\obj\Debug\GlassExa.0AA1BF11.Up2Date
+C:\ASP NET作品集\GlassExamination\GlassExamination\bin\Debug\Newtonsoft.Json.dll
+C:\ASP NET作品集\GlassExamination\GlassExamination\bin\Debug\Newtonsoft.Json.xml
+C:\ASP NET作品集\GlassExamination\GlassExamination\obj\Debug\GlassExamination.GlassExamination.resources
