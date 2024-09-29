@@ -37,6 +37,14 @@
 - 縮放倍數為目前圖片顯示長/寬為原始圖片大小的倍率
 - 若圖片經縮放，原點不會再是圖片顯示框左上角(0,0)位置，offset即為經縮放調整後在圖片顯示框外的原點
 
+## 使用技術
+
+- 後端技術: C# Winform (.NET Framework)
+- 資料庫: SSMS、SQL Server
+- 撰寫程式: Visual Studio 2022 
+
+連接資料庫方式: SqlCommand, SqConnection, SqlDataAdapter物件
+
 ## 影像來源
 pexel: 範例影像
 fontawesome: 功能列、表單icon
